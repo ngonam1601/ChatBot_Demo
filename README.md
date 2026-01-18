@@ -173,7 +173,7 @@ Thay đổi:
 - `max-width`: Chiều rộng container
 - Avatar URLs: Hình đại diện
 
-## 🔧 Xử Lý Sự Cố
+##  Xử Lý Sự Cố
 
 ### Lỗi API Key
 ```
