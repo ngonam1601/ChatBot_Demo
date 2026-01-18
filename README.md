@@ -199,7 +199,7 @@ MemoryError: Unable to allocate ...
 - Giảm số documents
 - Dùng GPU (CUDA) nếu có
 
-## 📝 Ví Dụ Sử Dụng
+##  Ví Dụ Sử Dụng
 
 ### Câu Hỏi 1: Vượt Đèn Đỏ
 **Input**: "Mức phạt khi vượt đèn đỏ là bao nhiêu?"
@@ -242,7 +242,7 @@ Theo Luật 168/2024/NĐ-CP [Điều X] [Khoản Y]:
 - Luôn kiểm tra thông tin trên các nguồn chính thức
 - Pháp luật có thể thay đổi, cập nhật thường xuyên
 
-## 📄 License
+##  License
 
 Dự án này sử dụng dữ liệu công khai của Luật Giao Thông Đường Bộ Việt Nam.
 
